@@ -11,13 +11,16 @@ module.exports = {
       'tealish-blue' : '#1E293B'
       },
       fontSize:{
-       
+        '4xl' : '35px',
+        '7xl' : '75px'
       },
       lineHeight: {
         '120': '120%',
+        '150': '150%',
       },
       fontFamily: {
         Inter: ['Inter', 'sans-serif'],
+        Poppins: ['Poppins', 'sans-serif'],
         Pacifico: ["Pacifico", 'cursive'],
       }
     },
