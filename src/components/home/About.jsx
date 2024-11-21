@@ -35,7 +35,7 @@ const About = () => {
                     </div>
                 </div>
                 <div data-aos="fade-down-left" className='w-5/12 max-lg:w-full justify-center items-center flex'>
-                    <img className='lg:max-w-[363px] max-w-[600px] w-full' src={AboutImage} alt="aboutImage" />
+                    <img className='lg:max-w-[363px] max-w-[600px] pointer-events-none w-full' src={AboutImage} alt="aboutImage" />
                 </div>
             </div>
         </div>

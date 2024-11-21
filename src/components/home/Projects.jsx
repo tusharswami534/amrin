@@ -31,28 +31,28 @@ const Projects = () => {
                 </div>
             <div className='flex flex-wrap pt-16 -mt-1'>
                 <div className='w-3/12 max-lg:w-4/12 max-md:w-6/12'>
-                    <img data-aos="flip-left" data-aos-duration="200" src={ProjectImage} alt="ProjectImage" className='w-full' />
+                    <img data-aos="flip-left" data-aos-duration="200" src={ProjectImage} alt="ProjectImage" className='w-full pointer-events-none' />
                 </div>
                 <div className='w-3/12 max-lg:w-4/12 max-md:w-6/12'>
-                    <img data-aos="flip-left" data-aos-duration="400" src={WorkImage} alt="ProjectImage" className='w-full' />
+                    <img data-aos="flip-left" data-aos-duration="400" src={WorkImage} alt="ProjectImage" className='w-full pointer-events-none' />
                 </div>
                 <div className='w-3/12 max-lg:w-4/12 max-md:w-6/12'>
-                    <img data-aos="flip-left" data-aos-duration="600" src={DellImage} alt="ProjectImage" className='w-full' />
+                    <img data-aos="flip-left" data-aos-duration="600" src={DellImage} alt="ProjectImage" className='w-full pointer-events-none' />
                 </div>
                 <div className='w-3/12 max-lg:w-4/12 max-md:w-6/12'>
-                    <img data-aos="flip-left" data-aos-duration="800" src={VrHeadSet} alt="ProjectImage" className='w-full' />
+                    <img data-aos="flip-left" data-aos-duration="800" src={VrHeadSet} alt="ProjectImage" className='w-full pointer-events-none' />
                 </div>
                 <div className='w-3/12 max-lg:w-4/12 max-md:w-6/12'>
-                    <img data-aos="flip-left" data-aos-duration="1000" src={WorkOnLaptop} alt="ProjectImage" className='w-full' />
+                    <img data-aos="flip-left" data-aos-duration="1000" src={WorkOnLaptop} alt="ProjectImage" className='w-full pointer-events-none' />
                 </div>
                 <div className='w-3/12 max-lg:w-4/12 max-md:w-6/12'>
-                    <img data-aos="flip-left" data-aos-duration="1200" src={Meeting} alt="ProjectImage" className='w-full' />
+                    <img data-aos="flip-left" data-aos-duration="1200" src={Meeting} alt="ProjectImage" className='w-full pointer-events-none' />
                 </div>
                 <div className='w-3/12 max-lg:w-4/12 max-md:w-6/12'>
-                    <img data-aos="flip-left" data-aos-duration="1400" src={HelpImage} alt="ProjectImage" className='w-full' />
+                    <img data-aos="flip-left" data-aos-duration="1400" src={HelpImage} alt="ProjectImage" className='w-full pointer-events-none' />
                 </div>
                 <div className='w-3/12 max-lg:w-4/12 max-md:w-6/12'>
-                    <img data-aos="flip-left" data-aos-duration="1600" src={HandUpImage} alt="ProjectImage" className='w-full' />
+                    <img data-aos="flip-left" data-aos-duration="1600" src={HandUpImage} alt="ProjectImage" className='w-full pointer-events-none' />
                 </div>
             </div>
             <div data-aos="fade-right" className='mt-7'>

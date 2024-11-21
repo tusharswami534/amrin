@@ -25,7 +25,7 @@ const Hero = () => {
                     <CommonButton HeroBtn="See Projects"></CommonButton>
                 </div>
                 <div className='w-1/2 max-lg:w-full '>
-                    <img data-aos="fade-left" className='w-full lg:max-w-[498px]' src={HeroImage} alt="HeroSectionImage" />
+                    <img data-aos="fade-left" className='w-full lg:max-w-[498px] pointer-events-none' src={HeroImage} alt="HeroSectionImage" />
                 </div>
             </div>
         </div>
