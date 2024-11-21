@@ -17,6 +17,8 @@ module.exports = {
       lineHeight: {
         '120': '120%',
         '150': '150%',
+        '180': '180%',
+        '225': '225%',
       },
       fontFamily: {
         Inter: ['Inter', 'sans-serif'],
