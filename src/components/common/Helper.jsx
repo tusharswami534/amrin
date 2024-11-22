@@ -8,8 +8,8 @@ export const NAV_BAR_LINK = [
         LinkUrl   : "#projects"
     },
     {
-        LinkName  : "Blog",
-        LinkUrl   : "#blog"
+        LinkName  : "Technologies",
+        LinkUrl   : "#technologies"
     },
     {
         LinkName  : "Contact",

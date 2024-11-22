@@ -18,7 +18,11 @@ module.exports = {
         '120': '120%',
         '150': '150%',
         '180': '180%',
+        '200': '200%',
         '225': '225%',
+      },
+      screens: {
+        lg : '992px',
       },
       fontFamily: {
         Inter: ['Inter', 'sans-serif'],
